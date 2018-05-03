@@ -67,3 +67,8 @@ For deploying on Heroku:
 ```
 web: java -jar target/climbstats-0.1.0-SNAPSHOT-standalone.jar
 ```
+
+## Team
+
+- [Vincent Heng](https://github.com/vincent-heng): Android App Developer
+- [Guillaume Hélouis](https://github.com/ghelouis): REST Server Developer
