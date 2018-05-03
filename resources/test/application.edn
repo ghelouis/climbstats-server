@@ -1,0 +1,8 @@
+{:hostname "localhost"
+ :db-spec {:classname "org.h2.Driver"
+           :subprotocol "h2"
+           :subname "mem:climbstats_database"
+           :user ""
+           :password ""
+           :DB_CLOSE_DELAY "-1"}
+}
